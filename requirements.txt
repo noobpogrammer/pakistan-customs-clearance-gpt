@@ -1,0 +1,10 @@
+flask
+requests
+urllib3
+beautifulsoup4
+sentence-transformers
+faiss-cpu
+numpy
+python-docx
+pymupdf4llm
+werkzeug

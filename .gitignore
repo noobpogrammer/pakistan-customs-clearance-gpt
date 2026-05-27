@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+uploads/
+db/
+vector_index/
+chat
+*.db
+*.sqlite
+.env
